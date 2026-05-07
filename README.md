@@ -1,6 +1,6 @@
 # Hi, I'm Nicholas Kaplun
 
-MSAI student building full-stack and AI-powered applications.
+Currently pursuing a Master's of Science in Artificial Intelligence @ Northeastern University Silicon Valley campus. I'm building full-stack and AI-powered applications.
 
 ## Projects
 
