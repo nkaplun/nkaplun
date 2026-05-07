@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nicholas Kaplun
 
-<!--
-**nkaplun/nkaplun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSAI student building full-stack and AI-powered applications.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [ROAM](https://github.com/nkaplun/ROAM) | Group trip itinerary optimizer | Python, Flask, React |
+| [Penny](https://github.com/nkaplun/Penny) | AI finance tracker with LLM transaction categorization | Python, FastAPI, React, Gemini |
+| [VisaHire](https://github.com/nkaplun/VisaHire) | Job search platform for international students | React, TypeScript, Python |
+
+## Tech
+Python · React · TypeScript · FastAPI · Flask · Docker · SQL
+
