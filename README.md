@@ -6,6 +6,7 @@ Currently pursuing a Master's of Science in Artificial Intelligence @ Northeaste
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [Personae](https://github.com/nkaplun/personae) | Customer segmentation with LLM-generated personas | Python, scikit-learn, LLM |
 | [ROAM](https://github.com/nkaplun/ROAM) | Group trip itinerary optimizer | Python, Flask, React |
 | [Penny](https://github.com/nkaplun/Penny) | AI finance tracker with LLM transaction categorization | Python, FastAPI, React, Gemini |
 | [VisaHire](https://github.com/nkaplun/VisaHire) | Job search platform for international students | React, TypeScript, Python |
