@@ -10,6 +10,10 @@ Most of my production work is in private company repos, so here is what it does:
 - **Evaluation and guardrails.** Tracks correctness, latency, cost, and token usage. Includes a deterministic check that blocks invented case studies and a regression suite, built from real user requests, that runs before every deploy.
 - **Outreach automation.** n8n workflows that write personalized LinkedIn messages and cold emails. Processed 2,500+ prospects and produced 5,000+ outreach assets at under $0.03 per prospect, saving about 300 hours of manual work.
 
+## Featured project
+
+**[Casebook](https://github.com/nkaplun/casebook)**: a public, rebuilt version of the case-study assistant above. A Slack bot finds the past projects that fit a sales prospect and builds a pitch deck from them. Code checks block invented case studies and any number on a slide that isn't in its source. Includes offline tests and a live eval suite. Python, Claude and OpenAI APIs, Slack Bolt, python-pptx.
+
 ## School projects
 
 | Project | What it does | Stack |
