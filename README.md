@@ -18,7 +18,7 @@ Most of my production work is in private company repos, so here is what it does:
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Personae](https://github.com/nkaplun/personae) | Finds customer segments with PCA and K-means, then has an LLM write each one up as a marketing persona grounded in that segment's real numbers. Team of 3. | Python, scikit-learn, LLM |
+| [Personae](https://github.com/nkaplun/personae) | Finds customer segments with PCA and K-means and describes each as a marketing persona, with an automated check that every number cited is real ([live app](https://personae.onrender.com/)). Team of 3; I led the persona layer and the Flask app. | Python, scikit-learn, Flask, Claude API |
 | [VisaHire](https://github.com/EddyJJHuang/VisaHire) | Reads a resume and surfaces employers likely to sponsor an H-1B. **2nd Runner-Up of 20 teams**, NU Silicon Valley Hackathon 2026. Team project. | React, TypeScript, Python, LLM |
 | [Penny](https://github.com/EddyJJHuang/Penny) | Personal finance tracker that categorizes bank transactions with local rules plus Gemini (85%+ accuracy) and suggests savings. Team project. | Python, FastAPI, React, Docker |
 | [ROAM](https://github.com/EddyJJHuang/ROAM) | Plans a group's day in a new city: picks the itinerary that maximizes group satisfaction within budget and time, using dynamic programming and Dijkstra. With Jiajun Huang. | Python, Flask, React |
