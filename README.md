@@ -1,6 +1,6 @@
 # Nicholas Kaplun
 
-Forward Deployed AI Engineer at **Zoolatech** and MS in Artificial Intelligence student at **Northeastern University** (Silicon Valley campus, graduating Dec 2027). Before engineering I spent three years as a product manager, so I like working close to the people who use what I build.
+AI Engineer at **Zoolatech** and MS in Artificial Intelligence student at **Northeastern University** (Silicon Valley campus, graduating Dec 2027). Before engineering I spent three years as a product manager, so I like working close to the people who use what I build.
 
 ## What I build at Zoolatech
 
